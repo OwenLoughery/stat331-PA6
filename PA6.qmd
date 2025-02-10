@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: "Stanley, Felix, Owen, Troy"
 format: html
 editor: visual
 embed-resources: true
