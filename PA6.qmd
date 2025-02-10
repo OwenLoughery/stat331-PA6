@@ -1,6 +1,6 @@
 ---
 title: "Practice Activity 6"
-author: Owen Loughery, Troy Volpentest, Stanley Lam, Felix Tran
+author: "Stanley, Felix, Owen, Troy"
 format: html
 editor: visual
 embed-resources: true
